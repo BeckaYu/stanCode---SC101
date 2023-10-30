@@ -5,7 +5,7 @@ Hello, I'm Rebecca Yu 👋
 In May 2023, I shifted gears from Product Management to aspiring Data Analyst, immersing myself in Python through stanCode's rich curriculum. My sights are set on breaking into the U.S. data scene, with plans to apply to an MSBA program in 2024.
 
 ## 💛 My Journey
-This repo is all about my coding adventure and the progress I've made so far. I’ve wrapped up four assignments (and got two more on the go), each one upping my game in cool stuff like Object-Oriented Programming, messing around with Data Structures (think lists, dictionaries, and tuples), Web Crawling with BeautifulSoup, Recursion, and Linked Lists.
+This repo is all about my coding adventure and the progress I've made so far. Within, I've tackled four assignments (with two currently in progress), each honing my abilities in Object-Oriented Programming, Data Structures (lists, dictionaries, tuples), Web Crawling via BeautifulSoup, Recursion, and Linked Lists. 
 
 ### Assignments at a Glance:
 - **Assignment 1:** Basic implementation on **Object-Oriented Programming** - Bouncing Ball
