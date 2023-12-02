@@ -12,7 +12,7 @@ This repo is all about my coding adventure and the progress I've made so far. Wi
 - **Assignment 2:** Advanced application on **Object-Oriented Programming** - Breakout Game
 - **Assignment 3:** Implementation using **Data Structure(list, dict, tuple)** - Self-crafted PhotoShop
 - **Assignment 4:** Implementation combining **Data Structures** with a **Web Crawler** (BeautifulSoup) - Search for Baby Names
-- **Assignment 5:** Implementation of **Recursion** in algorithms - Anagrams
+- **Assignment 5:** Implementation of **Recursion** in algorithms - Search for Anagrams
 - **Assignment 6:** Implementation of **Data Structures** and **Linked Lists** - Boggle Game (Work In Progress)
 
 ## 💻 About stanCode 101
