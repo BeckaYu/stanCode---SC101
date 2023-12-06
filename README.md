@@ -13,7 +13,7 @@ This repo is all about my coding adventure and the progress I've made so far. Wi
 - **Assignment 3:** Implementation using **Data Structure(list, dict, tuple)** - Self-crafted PhotoShop
 - **Assignment 4:** Implementation combining **Data Structures** with a **Web Crawler** (BeautifulSoup) - Search for Baby Names
 - **Assignment 5:** Implementation of **Recursion** in algorithms - Search for Anagrams
-- **Assignment 6:** Implementation of **Data Structures** and **Linked Lists** - Boggle Game (Work In Progress)
+- **Assignment 6:** Implementation of **Data Structures** and **Linked Lists** - LC212: Boggle Game
 
 ## 💻 About stanCode 101
 At the heart of my learning journey is **stanCode**, a brainchild of Stanford MSc. grad Jerry, dedicated to delivering Stanford-grade CS education to students across disciplines in Taiwan. **stanCode 101**, drawing inspiration from Stanford’s CS106B, lays a solid groundwork in programming.
