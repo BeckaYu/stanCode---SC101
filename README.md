@@ -2,8 +2,7 @@
 Hello, I'm Rebecca Yu 👋
 
 ## 👩‍💻 About Me
-In May 2023, I shifted gears from Product Management to aspiring Data Analyst, immersing myself in Python through stanCode's rich curriculum. I’m set to join UCLA’s MSBA Program in September 2024 and am excited about making my mark in the U.S. software industry soon after.
-
+In May 2023, I shifted gears from Product Management to aspiring Data Analyst, immersing myself in Python through stanCode's rich curriculum.
 ## 💛 My Journey
 This repo is all about my coding adventure and the progress I've made so far. Within, I've tackled six assignments, each honing my abilities in Object-Oriented Programming, Data Structures (lists, dictionaries, tuples), Web Crawling via BeautifulSoup, Recursion, and Linked Lists. 
 
